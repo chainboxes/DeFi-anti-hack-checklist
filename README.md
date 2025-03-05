@@ -42,7 +42,7 @@ As DeFi protocols advance, so do the security issues associated with them. The c
 | 6 | **Register at Rating institutions** | Add your contact info to [blockchain-security contacts](https://github.com/crytic/blockchain-security-contacts). It helps others to contact you if a security flaw is discovered. |
 | 7 | **Keeping Your Tools and Devices Up to Date** | Using outdated devices and services leaves our data vulnerable to hackers. Device manufacturers and app developers will usually release software updates regularly that patch the vulnerabilities. So, regularly updating devices and tools keeps us safe from hackers.
 | 8 | **Enable Authentication Methods/ 2FA to prevent Social account hacks.** | There are lots of scenarios where DeFi projects' social media accounts like Discord and Twitter are hacked, and the hackers use the compromised accounts for their personal gain. It harms the business's reputation. Using complex passwords in conjunction with 2FA enabled can thus aid in the protection of these accounts. |
-| 9 | "Added security best practices: RBAC, circuit breakers, and governance improvements"
+| 9 | "Added security best practices: RBAC, circuit breakers, and governance improvements".
 
 In a field like blockchain, which is continually growing, the saying "security is a journey and not a destination" reminds us that we should never stop learning.
 
